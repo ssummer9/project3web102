@@ -47,7 +47,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ssummer9/project3web102/blob/main/project3vid.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICECap  
@@ -59,6 +59,7 @@ GIF created with LICECap
 ## Notes
 
 Describe any challenges encountered while building the app.
+Overall challenges were understanding the syntax used in React CSS and regular CSS which I am still learning and needed to review how flexbox system works when doing the layout of any websites.
 
 ## License
 
