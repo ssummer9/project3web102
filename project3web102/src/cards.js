@@ -1,0 +1,10 @@
+export const cards = [{ question: "Capital of France?", answer: "Paris" }, 
+    { question: "Capital of Spain?", answer: "Madrid"},
+    { question: "Capital of Italy?", answer: "Rome"},
+    { question: "Capital of Serbia?", answer: "Belgrade"},
+    { question: "Capital of Russia?", answer: "Moscow"},
+    { question: "Capital of India?", answer: "New Delhi"},
+    { question: "Capital of Madagascar?", answer: "Antananarivo"},
+    { question: "Capital of Pakistan?", answer: "Islamabad"},
+    { question: "Capital of Peru?", answer: "Lima"},
+    { question: "Capital of Fiji?", answer: "Suva"}];
